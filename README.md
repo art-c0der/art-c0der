@@ -4,7 +4,7 @@
 
 <details>
   <summary>⚡ GitHub Activity</summary>
-  ![Temu4's GitHub stats](https://github-readme-stats.vercel.app/api?username=temu4&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=temu4&show_icons=true" alt="Temu4's GitHub stats"/>
 </details>
 
 <!--
