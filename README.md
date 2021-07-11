@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p><em>Enjoy of coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="coding cat"></em></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temu4&layout=compact)](https://github.com/temu4/github-readme-stats)
 
