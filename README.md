@@ -1,7 +1,8 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 <h1 align="center">Hi 👋, I'm Artem.</h1>
-<h3 align="center">A passionate Full Stack developer.</h3>
+<h3 align="center">A passionate WEB enthusiast.</h3>
+<h4 align="center">Know how to create magic.</h4>
 <p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="coding cat"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temu4&label=Profile%20views&color=0e75b6&style=flat" alt="temu4" /> </p>
